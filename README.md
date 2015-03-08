@@ -1,3 +1,5 @@
+MESA: 12
+Equipo: SCM003
 Descripción: Se pretende mejorar la movilidad de los usuarios del Sistema de Transporte Colectivo y su experiencia en él.
 
 Dependencias: servidores de bases de datos Mysql, lenguajes de programación HTML, CSS, PHP.
